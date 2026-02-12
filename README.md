@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=arvindpandey4&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=arvindindexnine&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
 
 </div>
 
@@ -101,12 +101,12 @@ bio: |
 <h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arvindpandey4&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true" height="180" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvindpandey4&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arvindindexnine&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true" height="180" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvindindexnine&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" height="180" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arvindpandey4&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arvindindexnine&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" width="100%" alt="Activity Graph"/>
 </div>
 
 <br/>
