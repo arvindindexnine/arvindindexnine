@@ -30,9 +30,12 @@
 
 ## About
 
+I design and build production-grade systems spanning **full-stack SaaS**, **cloud infrastructure**, and **applied AI**. My work centers on scalable backend architectures, real-time data pipelines, DevOps automation, and intelligent application layers.
+
 ```yaml
 name: Arvind Pandey
 location: India
+current_role: Software Development Intern @ Indexnine Technologies
 current_project: Orbit-Ops
 focus_areas:
   - Distributed systems
@@ -44,9 +47,6 @@ currently_learning:
   - CI/CD orchestration
   - Advanced cloud infrastructure
 contact: avisandhyatech@gmail.com
-bio: |
-  I design and build production-grade systems spanning full-stack SaaS, cloud infrastructure, and applied AI.
-  My work centers on scalable backend architectures, real-time data pipelines, DevOps automation, and intelligent application layers.
 ```
 
 <br/>
@@ -55,24 +55,7 @@ bio: |
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Separator"/>
 </div>
 
-## 💼 Work Experience
 
-<div align="center">
-
-### Software Development Intern
-**Indexnine Technologies** | *Current*
-
-<p align="left" style="max-width: 800px; margin: 0 auto;">
-Working on cutting-edge software solutions, contributing to full-stack development projects, and gaining hands-on experience with modern development practices, cloud technologies, and agile methodologies.
-</p>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Separator"/>
-</div>
 
 <h2 align="center">Tech Stack</h2>
 
